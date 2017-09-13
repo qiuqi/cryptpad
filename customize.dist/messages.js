@@ -10,6 +10,7 @@ var map = {
     'pt-br': 'Português do Brasil',
     'ro': 'Română',
     'zh': '繁體中文',
+    'zh_cn': '简体中文',
 };
 
 var getStoredLanguage = function () { return localStorage.getItem(LS_LANG); };
